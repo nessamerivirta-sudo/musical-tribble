@@ -1,0 +1,7 @@
+bread
+milk
+yoghurt
+sausage
+apple
+soda
+crisps
